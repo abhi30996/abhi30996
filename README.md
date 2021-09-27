@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular for front end along with how to implement MongoDB as DB
 - 📫 How to reach me:
   Email: abhi30996@gmail.com
-  Twitter: @adudhrejia
+  Twitter: https://twitter.com/adudhrejia
 
 <!---
 abhi30996/abhi30996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
