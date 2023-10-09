@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi30996
+- 👋 Hi, I’m Abhishek but I also go by @abhi30996
 - 👀 I’m interested in building applications that use new and upcoming technologies
 - 🌱 I’m currently learning Angular for front end along with how to implement MongoDB as DB
 - 📫 How to reach me:
